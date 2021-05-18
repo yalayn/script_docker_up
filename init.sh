@@ -1,14 +1,8 @@
 #!/bin/bash
 
 path_docker=(
-'/home/yordin/Projects/Napsis/snd_universal/DockerDevRedis/'
-'/home/yordin/Projects/Napsis/snd_universal/pil-backend/pil_backend/'
-'/home/yordin/Projects/Napsis/snd_universal/snd_backend/'
-'/home/yordin/Projects/Napsis/snd_universal/snd-api/'
-'/home/yordin/Projects/Napsis/snd_universal/pil-frontend/'
-'/home/yordin/Projects/Napsis/snd_universal/snd-frontend/'
-'/home/yordin/Projects/Napsis/new_pp/DockerDev/'
-'/home/yordin/Projects/Napsis/new_pp/portal_evaluacion_api/'
+'/home/user/Projects/Projects1'
+'/home/user/Projects/Projects2'
 )
 
 # docker stop $(docker ps -aq)
